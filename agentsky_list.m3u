@@ -1,20 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA",ANTV
 http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz536C8f/logo-globaltv-big1.png" group-title="INDONESIA",GLOBAL TV [R+]
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz536C8f/logo-globaltv-big1.png" group-title="INDONESIA",GLOBAL TV [Vidio]
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjqHB3dL/logo-indosiar-big1.png" group-title="INDONESIA",INDOSIAR
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqtmhr9/inewstv.png" group-title="INDONESIA",INEWS [R+]
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqtmhr9/inewstv.png" group-title="INDONESIA",INEWS
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=5409
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnNp61jD/logo-metrotv-big1.png" group-title="INDONESIA",METRO TV [Usee]
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTKh9jjK/logo-net-big1.png" group-title="INDONESIA",NET TV HD
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDhg2YSx/rctilogo.png" group-title="INDONESIA",RCTI [R+]
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDhg2YSx/rctilogo.png" group-title="INDONESIA",RCTI [Vidio]
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g23p14BF/logo-rri-big1.png" group-title="INDONESIA",RRI NET
@@ -30,19 +26,17 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnfB7pm3/logo-tvone-big1.png" group-title="INDONESIA",TV ONE [Dens]
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title="HBO And FOX",CINEMAX HD
-https://andriant.net/baru/hbo-maxhd.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="HBO And FOX",HBO
-https://fikrulmkc.my.id/film/hbo.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="HBO And FOX",HBO FAMILY
-https://andriant.net/baru/hbo-famhd.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkNFn5xS/10626238-ico.png" group-title="HBO And FOX",HBO HITS
-https://andriant.net/baru/hbo-hitshd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkNFn5xS/10626238-ico.png" group-title="HBO And FOX",HBO HITS [TES]
 https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjPk4Btd/10626267-ico.png" group-title="HBO And FOX",HBO SIGNATURE
-https://andriant.net/baru/hbo-sighd.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title="HBO And FOX",RED by HBO
-https://andriant.net/baru/hbo-redhd.m3u80
+https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXUO2cD.png" group-title="MOVIES",ATV
 https://andriant.net/andrian.m3u8?channel=atv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4GZHZLg.png" group-title="MOVIES",Bioskop Indonesia [Usee]
@@ -74,7 +68,7 @@ http://210.210.155.35/session/6c64951e-e2c9-11eb-babd-c81f66f89318/qwr9ew/s/s34/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sHqMle.png" group-title="MOVIES",WARNER TV [Usee]
 http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135658
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMLhZSTr/logo-zbioskop-big1.png" group-title="MOVIES",ZEEBIOSKOP [Usee]
-http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135599
+http://210.210.155.35/session/2e1a8ab4-e2d0-11eb-8291-b82a72d63267/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GdIXusA.png" group-title="SPORT INDO",Champion 1 HD [Usee]
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sizF3bc.png" group-title="SPORT INDO",Champion 2 HD [Usee]
